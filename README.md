@@ -8,24 +8,24 @@ SM was developed by Peter Szabo at the Institute of Biology of the University of
 
 ## Features
 
--Video and Image sequence display
--Manual event recording with buttons and keyboard shortcuts
--Data export into text file
--Workspace open/save
--Built-in Users's Guide
--Supported Media formats: MP4, MP3, FXM, FLV, HLS, AIFF, WAV
--Many supported image formats
+- Video and Image sequence display
+- Manual event recording with buttons and keyboard shortcuts
+- Data export into text file
+- Workspace open/save
+- Built-in Users's Guide
+- Supported Media formats: MP4, MP3, FXM, FLV, HLS, AIFF, WAV
+- Many supported image formats
 
 ## installation
 
-WINDOWS ----------------------
+WINDOWS
 
 Use 'SilentMantis-0.2_Win64_setup.exe' for installation
 
 MAC-----------------------
 
-Download 'silentmantis.jar'.
-Run 'silentmantis.jar' by 'java -jar silentmantis.jar'.
+1. Download 'silentmantis.jar'.
+2. Run 'silentmantis.jar' by 'java -jar silentmantis.jar'.
 (You need Java Runtime Environment installed.)
 
 
@@ -35,14 +35,14 @@ Install from the package 'silentmantis-0.2_linux_Debian.deb'
 
 OR
 
-Download 'silentmantis.jar'.
-Run 'silentmantis.jar' by 'java -jar silentmantis.jar'.
+1. Download 'silentmantis.jar'.
+2. Run 'silentmantis.jar' by 'java -jar silentmantis.jar'.
 (Uses the System Java Runtime Environment.)
 
 OR
 
 Use the Linux portable version (system JRE not required)
-- extract 'silentmantis_linux_portable.zip'
-- enter into 'silentmantis' folder
-- make the 'silentmantis' file executable by 'chmod a+x silentmantis'
-- run by executing 'silentmantis'
+1. extract 'silentmantis_linux_portable.zip'
+2. enter into 'silentmantis' folder
+3. make the 'silentmantis' file executable by 'chmod a+x silentmantis'
+4. run by executing 'silentmantis'
