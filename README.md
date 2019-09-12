@@ -6,6 +6,16 @@ Silent Mantis is a freely available, cross-platform event recorder software, whi
 
 SM was developed by Peter Szabo at the Institute of Biology of the University of Veterinary Medicine in Budapest, Hungary. It is distributed under the terms of the GNU General Public License. The current stable version is 0.2.
 
+## Features
+
+-Video and Image sequence display
+-Manual event recording with buttons and keyboard shortcuts
+-Data export into text file
+-Workspace open/save
+-Built-in Users's Guide
+-Supported Media formats: MP4, MP3, FXM, FLV, HLS, AIFF, WAV
+-Many supported image formats
+
 ## installation
 
 WINDOWS ----------------------
