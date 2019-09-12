@@ -16,18 +16,10 @@ SM was developed by Peter Szabo at the Institute of Biology of the University of
 - Supported Media formats: MP4, MP3, FXM, FLV, HLS, AIFF, WAV
 - Many supported image formats
 
-## Screenshots
+## Screenshot
 
 ![My image](https://github.com/peterszabo77/silentmantis/blob/master/images/screenshot1.jpeg
 )
-
-https://github.com/peterszabo77/silentmantis/blob/master/images/logo.png
-
-https://github.com/peterszabo77/silentmantis/blob/master/images/screenshot1.jpeg
-
-https://github.com/peterszabo77/silentmantis/blob/master/images/screenshot2.jpeg
-
-https://github.com/peterszabo77/silentmantis/blob/master/images/screenshot3.jpeg
 
 ## installation
 
