@@ -18,18 +18,18 @@ SM was developed by Peter Szabo at the Institute of Biology of the University of
 
 ## installation
 
-WINDOWS
+### WINDOWS
 
 Use 'SilentMantis-0.2_Win64_setup.exe' for installation
 
-MAC-----------------------
+### MAC
 
 1. Download 'silentmantis.jar'.
 2. Run 'silentmantis.jar' by 'java -jar silentmantis.jar'.
 (You need Java Runtime Environment installed.)
 
 
-LINUX-----------------------
+### LINUX
 
 Install from the package 'silentmantis-0.2_linux_Debian.deb'
 
