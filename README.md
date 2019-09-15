@@ -18,8 +18,10 @@ SM was developed by Peter Szabo at the Institute of Biology of the University of
 
 ## Screenshot
 
-![My image](https://github.com/peterszabo77/silentmantis/blob/master/images/screenshot1.jpeg
+![screenshot](https://github.com/peterszabo77/silentmantis/blob/master/images/screenshot1.jpeg
 )
+
+<img src="https://github.com/peterszabo77/silentmantis/blob/master/images/screenshot1.jpeg" alt="screenshot" width=200>
 
 ## installation
 
